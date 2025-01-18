@@ -1,7 +1,15 @@
-UPDATED version : https://github.com/NMan1/warzone-internal
+# Disclaimer
+
+This project is provided for educational and research purposes only. By accessing or using this repository, you agree to the following:
+
+    You will not use this code in any way that violates applicable laws or terms of service of any software or service.
+    The author is not responsible for any misuse of this project or any consequences resulting from its use.
+
+## If you are a potential employer:
+This project showcases my programming skills, problem-solving abilities, and interest in reverse engineering. It is not an endorsement of any illegal or unethical activities.
 
 
-# Modern-Warfare-Warzone-Cheat
+## Modern-Warfare-Warzone-Cheat
 
 **THIS IS NOT UPDATED NOR WILL I UPDATE IT FOR YOU**
 
